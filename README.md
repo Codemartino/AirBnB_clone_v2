@@ -1,6 +1,6 @@
 <center> <h1>HBNB - The Console</h2> </center>
 
-This repository was forked by Martin Akudugu to fix the codebase
+This repository was forked by Martin Akudugu to fix the codebase from someone
 ---
 
 <center><h3>Repository Contents by Project Task</h3> </center>
